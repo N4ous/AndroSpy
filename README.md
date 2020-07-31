@@ -28,7 +28,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 
 # [+]Update 1.1  
 +Major improvements  
-+Added Flash/Torch option to Camera Manager and percentage status with progressbar.
++Added Flash/Torch option to Camera Manager and percentage status with progressbar.  
 +Reconstructed Upload/Download file and added percentage status with progressbar.  
 +Added Download Manager (you can download any file that you want into the victim's phone but you must put filename into textBox)  
 +Added some features into Call Manager (Send sms to selected phone number directly, call selected number...)
