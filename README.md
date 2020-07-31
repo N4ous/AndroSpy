@@ -32,7 +32,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 +Reconstructed Upload/Download file and added percentage status with progressbar.  
 +Added Download Manager (you can download any file that you want into the victim's phone but you must put filename into textBox)  
 +Added some features into Call Manager (Send sms to selected phone number directly, call selected number...)
-+Added source into Microphone Manager (Mic, Call, Default)
++Added source into Microphone Manager (Mic, Call, Default)  
 +Some visual improvements.
 And more that I have forgot :)  
 TO-DO : Add screenshot manager.
